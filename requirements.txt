@@ -1,0 +1,9 @@
+auto-py-to-exe==2.26.1
+pyfiglet==0.8.post1
+pywin32==305
+requests==2.27.1
+rich==13.5.2
+selenium==3.141.0
+tqdm==4.65.0
+pyinstaller==5.7.0
+pyinstaller-hooks-contrib==2022.14
